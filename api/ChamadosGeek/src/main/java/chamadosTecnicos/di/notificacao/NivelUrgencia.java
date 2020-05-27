@@ -1,4 +1,4 @@
-package geek.chamados.di.notificacao;
+package chamadosTecnicos.di.notificacao;
 
 public enum NivelUrgencia {
 

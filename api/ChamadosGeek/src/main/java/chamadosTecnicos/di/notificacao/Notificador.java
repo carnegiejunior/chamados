@@ -1,6 +1,6 @@
-package geek.chamados.di.notificacao;
+package chamadosTecnicos.di.notificacao;
 
-import geek.chamados.di.modelo.Cliente;
+import chamadosTecnicos.di.modelo.Cliente;
 
 public interface Notificador {
 

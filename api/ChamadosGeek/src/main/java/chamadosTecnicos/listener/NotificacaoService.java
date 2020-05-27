@@ -1,13 +1,15 @@
-package geek.chamados.listener;
+package chamadosTecnicos.listener;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;
 
-import geek.chamados.di.notificacao.NivelUrgencia;
-import geek.chamados.di.notificacao.Notificador;
-import geek.chamados.di.notificacao.TipoDoNotificador;
-import geek.chamados.di.services.ClienteAtivadoEvent;
+import chamadosTecnicos.di.notificacao.NivelUrgencia;
+import chamadosTecnicos.di.notificacao.Notificador;
+import chamadosTecnicos.di.notificacao.TipoDoNotificador;
+import chamadosTecnicos.di.services.ClienteAtivadoEvent;
+
+
 
 
 @Component

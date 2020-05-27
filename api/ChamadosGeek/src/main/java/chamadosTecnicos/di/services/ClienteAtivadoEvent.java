@@ -1,6 +1,6 @@
-package geek.chamados.di.services;
+package chamadosTecnicos.di.services;
 
-import geek.chamados.di.modelo.Cliente;
+import chamadosTecnicos.di.modelo.Cliente;
 
 public class ClienteAtivadoEvent {
 

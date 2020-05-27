@@ -1,4 +1,4 @@
-package geek.chamados.di.notificacao;
+package chamadosTecnicos.di.notificacao;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

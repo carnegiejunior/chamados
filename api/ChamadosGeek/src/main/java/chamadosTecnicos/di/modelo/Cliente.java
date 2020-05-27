@@ -1,4 +1,4 @@
-package geek.chamados.di.modelo;
+package chamadosTecnicos.di.modelo;
 
 public class Cliente {
 

@@ -1,10 +1,10 @@
-package geek.chamados.di.services;
+package chamadosTecnicos.di.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Component;
 
-import geek.chamados.di.modelo.Cliente;
+import chamadosTecnicos.di.modelo.Cliente;
 
 
 @Component

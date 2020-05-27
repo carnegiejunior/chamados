@@ -1,4 +1,4 @@
-package geek.chamados.di.notificacao;
+package chamadosTecnicos.di.notificacao;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

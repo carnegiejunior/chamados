@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="geek.chamados.di.notificacao.TipoDoNotificador"/>
+    <fullyQualifiedTypeName name="geek.chamados.di.notificacao.Notificador"/>
+    <fullyQualifiedTypeName name="geek.chamados.di.notificacao.NivelUrgencia"/>
+    <fullyQualifiedTypeName name="geek.chamados.di.services.ClienteAtivadoEvent"/>
+    <fullyQualifiedTypeName name="org.hibernate.persister.collection.CompositeElementPropertyMapping"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+</qualifiedTypeNameHistroy>

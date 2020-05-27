@@ -1,8 +1,8 @@
-package geek.chamados.di.notificacao;
+package chamadosTecnicos.di.notificacao;
 
 import org.springframework.stereotype.Component;
 
-import geek.chamados.di.modelo.Cliente;
+import chamadosTecnicos.di.modelo.Cliente;
 
 
 @TipoDoNotificador(NivelUrgencia.URGENTE)
